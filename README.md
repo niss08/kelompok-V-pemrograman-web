@@ -5,4 +5,4 @@ Kelas   : IF-V-C
 
 Nama    : Handayani
 NIM     : 10222153
-Kelas   : IF-V-C
+Kelas   : IF-V-C    
