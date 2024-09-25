@@ -6,3 +6,7 @@ Kelas   : IF-V-C
 Nama    : Handayani
 NIM     : 10222153
 Kelas   : IF-V-C
+
+Nama    : Eko Nugraha Saputra
+NIM     : 10222094
+Kelas   : IF-V-C
