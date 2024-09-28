@@ -6,3 +6,7 @@ Kelas   : IF-V-C
 Nama    : Handayani
 NIM     : 10222153
 Kelas   : IF-V-C
+
+Nama    : Abdul Ropi
+NIM     : 10222110
+Kelas   : IF-V-C
