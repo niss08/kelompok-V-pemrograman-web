@@ -10,3 +10,7 @@ Kelas   : IF-V-C
 Nama    : Abdul Ropi
 NIM     : 10222110
 Kelas   : IF-V-C
+
+Nama    : Eko Nugraha Saputra
+NIM     : 10222094
+Kelas   : IF-V-C
