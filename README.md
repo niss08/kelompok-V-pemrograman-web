@@ -10,3 +10,6 @@ Kelas   : IF-V-C
 Nama    : Abdul Ropi
 NIM     : 10222110
 Kelas   : IF-V-C
+
+Nama    : ganang 
+Nim     
