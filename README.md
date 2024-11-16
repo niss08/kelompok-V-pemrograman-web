@@ -18,3 +18,5 @@ Kelas   : IF-V-C
 Nama    : Ganang Aji Pratama
 NIM     : 10222114
 Kelas   : IF-V-C
+
+Perubahan tanggal 16 November 2024
